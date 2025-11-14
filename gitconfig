@@ -47,5 +47,7 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = belenmareque@gmail.com
+	email = belen.mareque@gmail.com
 	name = belen mareque
+[credential]
+	helper = store
